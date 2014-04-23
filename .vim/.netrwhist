@@ -1,0 +1,8 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =6
+let g:netrw_dirhist_1='/Users/dantherrien/dev/thefreeresource.com/feedMaker'
+let g:netrw_dirhist_2='/Users/dantherrien/.ssh/.ssh'
+let g:netrw_dirhist_3='/Users/dantherrien/FTB/Ultimate/minecraft/config/GregTech'
+let g:netrw_dirhist_4='/Users/dantherrien/photos/mandasphotos.pass.us'
+let g:netrw_dirhist_5='/Users/dantherrien/FTB/Direwolf20_1_6_4/minecraft/saves/SecondAttempt/players'
+let g:netrw_dirhist_6='/Users/dantherrien/Projects/dotfiles/.git'
